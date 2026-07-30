@@ -1,24 +1,26 @@
-🏗️ Architecture : 
-This project follows the Medallion Architecture:
+## 🏗️ Architecture
 
-🥉 Bronze Layer : 
-Raw data ingestion
-Schema inference and storage as Delta tables
+This project follows the **Medallion Architecture**:
 
-🥈 Silver Layer : 
-Data cleaning and standardization
-Type casting and validation
+### 🥉 Bronze Layer
+- Raw data ingestion  
+- Schema inference and storage as Delta tables  
 
-🥇 Gold Layer 
-Dimensional Data Model (Business Transformation)
-Ready for BI and analysis
+### 🥈 Silver Layer
+- Data cleaning and standardization  
+- Type casting and validation  
 
-🛠️ Technologies Used : 
-Databricks,
-Apache Spark,
-PySpark,
-Spark SQL,
-Delta Lake,
-Unity Catalog,
+### 🥇 Gold Layer
+- Dimensional Data Model (Business Transformation)
+- Ready for BI and analysis  
 
+---
 
+## 🛠️ Technologies Used
+
+- Databricks  
+- Apache Spark  
+- PySpark  
+- Spark SQL  
+- Delta Lake  
+- Unity Catalog  
